@@ -1,4 +1,4 @@
-#rule
+#rule2
 module "rg" {
   source   = "../child-module/azurerm_resource_group"
   rg_name  = "sandy-rg"
